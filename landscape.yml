@@ -143,7 +143,13 @@ landscape:
             homepage_url: https://ozone.one
             logo: ozone.svg
             crunchbase: https://www.crunchbase.com/organization/in2tive
-          - item:
+           - item:
+            name: Prodvana:
+            homeage_url: https://www.prodvana.io
+            logo: prodvana.svg
+            crunchbase: https://www.crunchbase.com/organization/prodvana
+            description: >-
+              Prodvana is an intelligent delivery platform that defines outcomes and not pipelines resulting in higher ownership and simplier configuration.
             name: Screwdriver
             homepage_url: https://screwdriver.cd/
             project: incubating
